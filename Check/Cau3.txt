@@ -1,0 +1,9 @@
+                        Given the set X = {0, 1, 2, 3, 4, 5, 6, 7}. 
+
+              How many distinct ways to write a number with the length of 5 
+
+                      using 3 even numbers and 2 odd numbers in set X.
+
+                     Eating the food following the order of the answer.
+
+           Assume the answer is 1234. Eating the food with this order: 1->2->3->4

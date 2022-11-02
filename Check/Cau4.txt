@@ -1,0 +1,5 @@
+                             Which is the 304th prime number?
+
+                      Eating the food following the order of the answer
+
+           Assume the answer is: 1831. Eating the food with this order: 1->8->3->1

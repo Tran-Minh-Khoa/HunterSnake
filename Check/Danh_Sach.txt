@@ -1,0 +1,21 @@
+                                        INSTRUCTOR: PROF. TRUONG TOAN THINH
+											
+							  MEMBERS:
+	
+1   TRAN THANH DUY	(LEADER)	21127033			3   TRAN MINH KHOA		21127629			
+
+2   PHUNG QUANG MINH HUY		21127306			4   VU MINH PHAT		21127739		
+						
+
+
+
+
+
+						      HOW TO PLAY ?
+
+							  PRESS
+
+			   W: MOVE UP					       P: PAUSE GAME
+			   A: MOVE LEFT					       L: SAVE GAME		
+			   S: MOVE DOWN					       T: CONTINUE GAME
+			   D: MOVE RIGHT				       Y: RESTART
